@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SkifLab</string>
+    <string name="auth_phone_title">Ваш телефон</string>
+    <string name="auth_phone_desc">Мы вышлем вам смс, чтобы подтвердить вашу личность</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="enter_code_title">Введите код подтверждения</string>
+    <string name="enter_code_desc">Код был выслан на номер %s, вы можете запросить новый код через 00:30</string>
+    <string name="phone_number_label">Номер телефона</string>
+    <string name="code_label">Код подтверждения</string>
+    <string name="next">Далее</string>
+    <string name="cancel">Отмена</string>
+    <string name="login">Войти</string>
+    <string name="day_title">Дни</string>
+    <string name="week_title">Недели</string>
+    <string name="month_title">Месяца</string>
+    <string name="report_title">Отчет по датчику</string>
+    <string name="show_more">Подробнее</string>
+    <string name="save">Сохранить</string>
+</resources>
