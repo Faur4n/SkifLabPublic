@@ -6,6 +6,7 @@ dependencyResolutionManagement {
         maven{ url "https://maven.pkg.jetbrains.space/public/p/compose/dev"}
         maven { url 'https://jitpack.io' }
         maven { url('https://repo1.maven.org/maven2/') }
+        maven { url "https://artifactory.keygenqt.com/artifactory/open-source" }
     }
 }
 rootProject.name = "SkifLab"

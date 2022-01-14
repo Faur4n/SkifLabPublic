@@ -16,4 +16,5 @@
     <string name="report_title">Отчет по датчику</string>
     <string name="show_more">Подробнее</string>
     <string name="save">Сохранить</string>
+    <string name="help_title">Подсказки и обучение</string>
 </resources>
